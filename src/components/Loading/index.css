@@ -1,0 +1,6 @@
+.ant-spin-spinning {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%);
+}
